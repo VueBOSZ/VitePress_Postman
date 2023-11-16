@@ -16,8 +16,9 @@ npm run docs:dev
 ```
 
 
+[Deploy Your VitePress Site](https://vitepress.dev/guide/deploy#build-and-test-locally)
 
-
+[code](https://github.com/VueBOSZ/VitePress_Postman/blame/4e65c35326c00d79421775443beb750b473696dd/package.json#L6-L11)
 
 ```stl
 solid cube_corner
